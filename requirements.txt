@@ -1,0 +1,7 @@
+Flask
+Flask-CORS
+gunicorn
+
+Flask ve Flask-CORS: Kodunuzun çalışması için gerekli kütüphaneler.
+
+gunicorn: API'nizi internette güvenli ve verimli bir şekilde çalıştırmak için kullanılan standart bir sunucu yazılımıdır.

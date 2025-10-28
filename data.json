@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Yazılım ve Teknoloji Kulübü",
+    "tags": ["Yazılım", "Kodlama", "Programlama", "Web", "Mobil", "AI"]
+  },
+  {
+    "name": "Doğuş Fotoğrafçılık Kulübü",
+    "tags": ["Fotoğrafçılık", "Görsel Sanatlar", "Kamera", "Sanat"]
+  },
+  {
+    "name": "Edebiyat ve Kitap Kulübü",
+    "tags": ["Kitap Okuma", "Roman", "Şiir", "Edebiyat"]
+  },
+  {
+    "name": "Doğa ve Macera Kulübü",
+    "tags": ["Doğa Yürüyüşü", "Kampçılık", "Spor", "Tırmanış"]
+  },
+  {
+    "name": "Müzik ve Performans Kulübü",
+    "tags": ["Müzik", "Gitar", "Şarkı Söyleme", "Etkinlik", "Sanat"]
+  },
+  {
+    "name": "Tiyatro ve Drama Kulübü",
+    "tags": ["Oyunculuk", "Drama", "Sanat", "Performans"]
+  }
+]
